@@ -4,3 +4,4 @@ this line is added to test git fetch
 added line4
 added line5
 added line7
+added line6
